@@ -1,2 +1,3 @@
 pub mod precision;
-mod quick_mul;
+pub mod quick_mul;
+pub mod prime;
